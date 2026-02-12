@@ -1,0 +1,199 @@
+.tieude {
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  size: 4px;
+  padding-left: 25px;
+}
+.bang1 {
+  background-color: green;
+  width: 1000px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  gap: 20px;
+}
+.bang2 {
+  padding-left: 40px;
+}
+.anh1 {
+  width: 294px;
+  height: 179px;
+  padding-left: 40px;
+  padding-top: 10px;
+}
+.noidung1 {
+  padding-left: 40px;
+  display: block;
+  margin: 0;
+}
+.bang2 {
+  width: 600px;
+  padding-top: 20px;
+}
+.badge {
+  background-color: #eee;
+
+  border-radius: 10px;
+  padding: 6px 20px;
+}
+.anh2 {
+  padding-left: 40px;
+  padding-top: 10px;
+  width: 159px;
+  height: 120px;
+}
+.bubu1 {
+  display: flex;
+}
+.noidung2 {
+  padding-left: 10px;
+  padding-top: 5px;
+  border-right: 3px solid #eee;
+  width: 30%;
+}
+.noidung3 {
+  padding-left: 30px;
+}
+.bubu2 {
+  display: flex;
+  gap: 30px;
+  padding-left: 40px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #eee;
+  width: 650px;
+}
+.bubu3 {
+  display: flex;
+  gap: 30px;
+  padding-left: 40px;
+  padding-top: 5px;
+}
+.bubu4 {
+  display: flex;
+  border-bottom: 3px solid #eee;
+  width: 700px;
+  padding-bottom: 10px;
+}
+.anh3 {
+  padding-left: 40px;
+  padding-top: 10px;
+  width: 159px;
+  height: 120px;
+}
+.noidung4 {
+  padding-left: 10px;
+  padding-top: 5px;
+  border-right: 3px solid #eee;
+  width: 30%;
+}
+.noidung5 {
+  padding-left: 30px;
+}
+.bubu5 {
+  display: flex;
+  gap: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+.bangcuoi {
+  background-color: green;
+  width: 1000px;
+  height: 25px;
+  padding-top: 15px;
+}
+.bangend {
+  background-color: #eee;
+  width: 1000px;
+  height: 25px;
+  padding-top: 15px;
+}
+.fantong {
+  display: flex;
+}
+.anh4 {
+  width: 135px;
+  height: 70px;
+}
+.pfan2 {
+  margin: 0;
+  display: block;
+  border-bottom: 3px solid #eee;
+  padding-bottom: 10px;
+}
+.fan2 {
+  padding-left: 15px;
+  padding-top: 10px;
+}
+.anh5 {
+  width: 40px;
+  height: 28px;
+}
+.matday {
+  display: flex;
+  padding-top: 10px;
+}
+.hudon {
+  padding-left: 10px;
+}
+.tt {
+  padding-top: 10px;
+  height: 65px;
+  width: 180px;
+  padding-left: 10px;
+}
+.mot {
+  display: flex;
+  border-bottom: 3px solid #eee;
+  padding-bottom: 10px;
+}
+.anh6 {
+  width: 81px;
+  height: 49px;
+}
+.pmot {
+  padding-right: 10px;
+}
+.hai {
+  padding-top: 10px;
+  display: flex;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #eee;
+}
+.anh7 {
+  width: 81px;
+  height: 49px;
+}
+.phai {
+  padding-right: 10px;
+}
+.ba {
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #eee;
+}
+.anh8 {
+  width: 81px;
+  height: 49px;
+}
+.pba {
+  padding-right: 10px;
+}
+.canchinh {
+  padding-left: 180px;
+}
+.pi {
+  display: flex;
+}
+.anhcho {
+  height: 370px;
+  width: 250px;
+  padding-left: 20px;
+}
+.maybe {
+  display: flex;
+}
+.papa {
+  padding-left: 150px;
+  width: 500px;
+}
